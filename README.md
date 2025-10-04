@@ -237,9 +237,9 @@ Potential improvements for future versions:
 
 ---
 
-## Author
-
-**Mohammad Amin Efaf**
-**Arman GhorbanPour**
-
 ---
+
+## Team Members
+
+- Mohammad Amin Efaf
+- Arman Ghorbanpour 
