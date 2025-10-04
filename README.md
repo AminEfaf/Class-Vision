@@ -237,8 +237,6 @@ Potential improvements for future versions:
 
 ---
 
----
-
 ## Team Members
 
 - Mohammad Amin Efaf
